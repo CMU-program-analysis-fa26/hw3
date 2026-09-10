@@ -8,6 +8,7 @@
 - Create a new switch (you can replace "homework" with any switch name you'd like):
 ```
 opam init
+opam repository add archive git+https://github.com/ocaml/opam-repository-archive --set-default
 opam switch create homework 4.09.0
 eval $(opam env)
 ```
