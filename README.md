@@ -1,5 +1,6 @@
 # Instructions
 
+- Use this repository template to create a **private** repository based on the template, and clone your own repo.
 - Install [opam](https://opam.ocaml.org/doc/Install.html) (these instructions
   assume opam version 2+).
   If you are using Windows, it is highly recommended that
